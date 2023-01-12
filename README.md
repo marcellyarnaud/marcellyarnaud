@@ -3,8 +3,12 @@
 Software engineering student and development intern passionate about technology and always looking for learn more.
 <br> I've been perfecting my knowledge in front-end and back-end web programming together, aiming to become a full-stack developer. </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-          
+<div>
+<a href="https://github.com/marcellyarnaud">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcellyarnaud&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?marcellyarnaud&layout=compact&langs_count=7&theme=aura"/>
+</div>
+
 ## 💻 Currently studying
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
