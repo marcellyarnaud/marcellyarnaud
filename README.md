@@ -1,4 +1,4 @@
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30"/> Hello, World! I'm Marcelly Arnaud ✨
+## Hello, World! I'm Marcelly Arnaud ✨
 
 Software engineering student and development intern passionate about technology and always looking for learn more.
 <br> I've been perfecting my knowledge in front-end and back-end web programming together, aiming to become a full-stack developer. </br>
