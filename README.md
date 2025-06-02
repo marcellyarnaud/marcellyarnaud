@@ -8,6 +8,7 @@ I also have a keen sense for front-end interface testing using **Cypress** and *
 
 I monitor test coverage, generate detailed reports, and record incidents accurately, ensuring that the final product offers a high-quality and reliable experience for users.
 
+![AWS Certified](https://img.shields.io/badge/AWS%20Certified-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ---
 
 ## 💻 Currently studying
